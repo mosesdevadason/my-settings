@@ -1,3 +1,3 @@
 # my-settings
 
-Currently has only my vimrc settings
+Settings like vimrc, screenrc etc.
